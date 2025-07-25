@@ -29,7 +29,8 @@ Junior Developer with a strong passion for solving logical programming challenge
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/moises-otero-4b757834a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in- alt.svg" alt="https://www.linkedin.com/in/moises-otero-4b757834a" height="30" width="40" />
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/moises-otero-4b757834a" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/moises-otero-4b757834a" height="30" width="40" />
   </a>
   <a href="https://www.hackerrank.com/moises_otero446" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="moises_otero446" height="30" width="40" />
