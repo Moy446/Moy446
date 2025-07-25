@@ -1,4 +1,4 @@
-# ¡Hola! 👋 I'm Moises Otero 
+# ¡Hi! 👋 I'm Moises Otero 
 
 ### 🚀 A passionate system engineering student and having a strong passion for solving logical programming challenges and collaborating with teams to build impactful projects
 
