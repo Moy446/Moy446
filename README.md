@@ -19,15 +19,22 @@ Junior Developer with a strong passion for solving logical programming challenge
 <h3> Others</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,linux,git,gitlab,github,notion,firebase, figma" alt="My Skills"/>
+    <img src="https://skillicons.dev/icons?i=mysql,linux,git,gitlab,github,notion,firebase,figma" alt="My Skills"/>
   </a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=moy446&show_icons=true&locale=en&layout=compact" alt="moy446" /></p>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=moy446&show_icons=true&locale=en&layout=compact" alt="moy446" />
+</p>
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/moises-otero-4b757834a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/moises-otero-4b757834a" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/moises_otero446" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="moises_otero446" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/bocchi446" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bocchi446" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/moises-otero-4b757834a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in- alt.svg" alt="https://www.linkedin.com/in/moises-otero-4b757834a" height="30" width="40" />
+  </a>
+  <a href="https://www.hackerrank.com/moises_otero446" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="moises_otero446" height="30" width="40" />
+  </a>
+  <a href="https://www.leetcode.com/bocchi446" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bocchi446" height="30" width="40" />
+  </a>
 </p>
