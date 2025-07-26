@@ -12,7 +12,7 @@ Junior Developer with a strong passion for solving logical programming challenge
 <h2>🛠  Tech Stack </h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,python,laravel,cs,java,laravel,kotlin,php" alt="My Skills"/>
+    <img src="https://skillicons.dev/icons?i=js,html,css,python,laravel,cs,java,kotlin,php" alt="My Skills"/>
   </a>
 </p>
 
