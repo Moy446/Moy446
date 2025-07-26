@@ -3,6 +3,7 @@
 
 <h2> About me </h2>
 Junior Developer with a strong passion for solving logical programming challenges and collaborating with teams to build impactful projects.I have contributed to full-stack web development projects and have integrated biometric technologies into select applications. Currently, I am pursuing a degree in Software Development Engineering at CETI, while independently expanding my knowledge in backend algorithms and Artificial Intelligence.
+
 - 🌱 I’m currently learning **Data Science, problem resolution**
 
 - 💬 Ask me about **python, web developer**
